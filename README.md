@@ -33,10 +33,10 @@ Para fazer uma busca com query string, esse é um exemplo de URL: http://localho
 
 {
 
-    "nome": "Peter Benjamin Paker",
-    "identidade": "Spider-Man",
+    "nome": "Walter Sulivan",
+    "tipo": "humano",
     "genero": "Masculino",
-    "imagem": "https://static.wikia.nocookie.net/marvel/images/9/96/Friendly_Neighborhood_Spider-Man_Vol_2_8_Granov_Variant_Textless.jpg/revision/latest/scale-to-width-down/333?cb=20190906235758&path-prefix=pt-br"
+    "imagem": "https://static.wikia.nocookie.net/silent/images/3/35/WalterGuide.png/revision/latest/scale-to-width-down/250?cb=20150818131423"
 
 }
 
