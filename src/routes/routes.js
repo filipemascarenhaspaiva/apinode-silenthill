@@ -8,5 +8,6 @@ routes.get("/personagens/:id", PersonagemMiddleware.validaID, PersonagemControll
 routes.post("/personagens", PersonagemController.create);
 routes.put("/personagens/:id", PersonagemMiddleware.validaID, PersonagemController.update)
 routes.delete("/personagens/:id", PersonagemMiddleware.validaID, PersonagemController.del)
+routes.get("/filterAll", PersonagemController.filterAll)
 
 module.exports = routes
